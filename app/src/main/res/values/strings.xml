@@ -8,5 +8,20 @@
     <string name="title_activity_shopping_logs">ShoppingLogs</string>
     <string name="title_activity_shop">ShopActivity</string>
     <string name="title_activity_about">AboutActivity</string>
+    <string name="achats_label">Mes achats</string>
+    <string name="buttonValider_label">Valider</string>
+    <string name="historiques_label">Mes historiques d\'achat</string>
+    <string name="magasin1_label">le magasin 1</string>
+    <string name="adresse1_label">5 rue de la chouette \n5 rue de la chouette \n  +32 2 226 83 61</string>
+    <string name="adresse2_label">53 rue des songes \n4000 Liege \n  +32 2 481 51 62</string>
+    <string name="magasin2_label">le magasin 2</string>
+    <string name="gererAchats_button_label">Gérer vos achats</string>
+    <string name="historique_button_label">Voir l\'historique</string>
+    <string name="boutiques_button_label">Nos boutiques</string>
+    <string name="propos_button_label">A propos de</string>
+    <string name="propos_title">A propos de</string>
+    <string name="propos_texte">Cette application vous permet de gérer, consulter l\'historique de vos achats ainsi que l\'ensemble de nos boutiques disponibles.</string>
+    <string name="contact_button_label">Nous contacter</string>
+
 
 </resources>
